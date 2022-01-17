@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639183404 source:c:\users\x540la-xx1007t\documents\programing files\machineproblem2\main.cpp
+	"fruitjuice.h"
+	<iostream>
+
+1639183935 c:\users\x540la-xx1007t\documents\programing files\machineproblem2\fruitjuice.h
+	<iostream>
+
